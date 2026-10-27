@@ -31,8 +31,11 @@ pip install requests beautifulsoup4 pandas
 Run all notebook cells sequentially to execute the web scraper and generate codealpha_scraped_books.csv
 
 📁 Repository StructurePlaintext
-├── web_scraping_py.ipynb            # Main Jupyter/Colab scraping notebook
-├── codealpha_scraped_books.csv      # Generated custom dataset
-└── README.md                        # Project documentation
 
-👤 AuthorIntern: Varshitha   Program: Data Analytics Internship at CodeAlpha
+├── web_scraping_py.ipynb      # Main Jupyter/Colab scraping notebook
+├── codealpha_scraped_books.csv # Generated custom dataset
+└── README.md                  # Project documentation
+
+## 👤 Author
+* **Intern:** Varshitha
+* **Program:** Data Analytics Internship at CodeAlpha
