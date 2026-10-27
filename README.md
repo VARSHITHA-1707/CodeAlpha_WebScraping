@@ -12,7 +12,7 @@ This project was completed as part of the **CodeAlpha Data Analytics Internship*
   * `pandas` - To structure, clean, and export data into CSV format
 
 ## 🌐 Target Website & Scraped Data
-* **Source:** [Books to Scrape](http://books.toscrape.com/)[cite: 3, 4]
+* **Source:** [Books to Scrape](http://books.toscrape.com/)
 * **Extracted Fields:**
   * Book Title
   * Price
